@@ -1,1 +1,1 @@
-TOKEN="8335673162:AAES40rQlqL5m0g3qMcuw8N66pOllEpb5-Y"
+TOKEN="Yangi-token"
