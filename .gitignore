@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+finance_bot/data/
+finance_bot/charts/
